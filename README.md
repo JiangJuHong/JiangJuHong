@@ -4,3 +4,14 @@
 ![VueJS](https://img.shields.io/badge/-Vue-green?logo=vuejs)
 ![Dart](https://img.shields.io/badge/-Dart-blue?logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-%23F05032?logo=flutter&logoColor=%23ffffff)
+
+## 外包接单
+* 定制开发
+* JAVA后台
+* PC项目
+* Flutter项目
+* React项目
+* 小程序
+
+## 联系我
+邮箱：690717394 / 690717394@qq.com
