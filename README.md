@@ -9,7 +9,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-%23F05032?logo=flutter&logoColor=%23ffffff)
 
 ## 定制化
-如果你有产品(不限平台)或插件定制化需求，可通过以下方式联系到我
+如果你有产品(不限平台)或插件定制化需求，可通过以下方式联系我
 
 ## 联系我
 邮箱：690717394 / 690717394@qq.com
