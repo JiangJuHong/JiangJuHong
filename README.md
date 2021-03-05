@@ -1,3 +1,6 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JiangJuHong&show_icons=true&hide_border=true&theme=vue-dark" />
+
+
 ## Hi~
 感谢您访问我的主页，不妨给个关注。
 
