@@ -10,6 +10,3 @@
 ![VueJS](https://img.shields.io/badge/-Vue-green?logo=vuejs)
 ![Dart](https://img.shields.io/badge/-Dart-blue?logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-%23F05032?logo=flutter&logoColor=%23ffffff)
-
-## 介绍
-准全栈工程师
