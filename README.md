@@ -3,7 +3,7 @@
 
 ## Hi~
 感谢您访问我的主页，不妨给个关注。  
-欢迎光临我的点卡小铺：[https://pay.huic.top](点卡系统)，如果需要更多内容，欢迎与我联系
+欢迎光临我的点卡小铺：[点卡系统]([点卡系统](https://pay.huic.top))，如果需要更多内容，欢迎与我联系
 
 ## 技术栈
 ![JAVA](https://img.shields.io/badge/-java-red?logo=java)
