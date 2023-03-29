@@ -5,6 +5,10 @@
 感谢您访问我的主页，不妨给个关注。  
 欢迎光临我的点卡小铺：[点卡系统](https://pay.huic.top)，如果需要更多内容，欢迎与我联系
 
+## 智文AI
+基于ChatGPT的一款生活助手小程序，欢迎使用，打开微信扫一扫  
+<img src="https://github.com/JiangJuHong/JiangJuHong/blob/main/ai-text.jpg" width="100px" height="100px" />
+
 ## 技术栈
 ![JAVA](https://img.shields.io/badge/-java-red?logo=java)
 ![React](https://img.shields.io/badge/-React-blue?logo=react)
