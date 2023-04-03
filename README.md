@@ -7,7 +7,7 @@
 
 ## 智文AI
 基于ChatGPT的一款生活助手，无需打开小程序，直接在微信就能聊天，欢迎使用，打开微信扫一扫  
-<img src="https://github.com/JiangJuHong/JiangJuHong/blob/main/ai-text.jpg" width="150px" height="150px" />
+<img src="https://github.com/JiangJuHong/JiangJuHong/blob/main/ai-text-mp.jpg" width="150px" height="150px" />
 
 ## 技术栈
 ![JAVA](https://img.shields.io/badge/-java-red?logo=java)
