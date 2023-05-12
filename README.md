@@ -6,8 +6,7 @@
 欢迎光临我的点卡小铺：[点卡系统](https://pay.huic.top)，如果需要更多内容，欢迎与我联系
 
 ## 智文AI
-基于ChatGPT的一款生活助手，无需打开小程序，直接在微信就能聊天，欢迎使用，打开微信扫一扫  
-<img src="https://github.com/JiangJuHong/JiangJuHong/blob/main/ai-text-mp.jpg" width="150px" height="150px" />
+基于ChatGPT的一款效率助手，支持公众号、网页版以及浏览器插件，[https://www.ai-text.top](https://www.ai-text.top)
 
 ## 技术栈
 ![JAVA](https://img.shields.io/badge/-java-red?logo=java)
